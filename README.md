@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiegoodnighte&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiegoodnight&show_icons=true)  
 
 <!--
 **jamiegoodnight/jamiegoodnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
