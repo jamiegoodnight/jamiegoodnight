@@ -5,7 +5,7 @@
   <code><img width="10%" src="https://simpleicons.org/icons/javascript.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/java.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/python.svg"></code>
-  <br />
+<!--   <br /> -->
   <code><img width="10%" src="https://simpleicons.org/icons/amazonaws.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/git.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/react.svg"></code>
@@ -13,7 +13,7 @@
   <code><img width="10%" src="https://simpleicons.org/icons/sqlite.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/mysql.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/postgresql.svg"></code>
-  <br />
+<!--   <br /> -->
   <code><img width="10%" src="https://simpleicons.org/icons/apache.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/django.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
