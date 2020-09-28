@@ -17,6 +17,14 @@
   <code><img width="10%" src="https://simpleicons.org/icons/apache.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/django.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/node-dot-js.svg"></code>
+    <br />
+  <code><img width="10%" src="https://simpleicons.org/icons/rubyonrails.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/visualstudio.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/eclipseide.svg"></code>
+<!--   <br /> -->
+  <code><img width="10%" src="https://simpleicons.org/icons/intellijidea.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/postman.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/heroku.svg"></code>
 </p>
 
 <!--
