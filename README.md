@@ -21,5 +21,5 @@
   <code><img width="10%" src="https://simpleicons.org/icons/eclipseide.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/intellijidea.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/postman.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/heroku.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/jira.svg"></code>
 </p>
