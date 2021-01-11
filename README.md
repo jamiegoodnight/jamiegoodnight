@@ -23,3 +23,7 @@
   <code><img width="10%" src="https://simpleicons.org/icons/postman.svg"></code>
   <code><img width="10%" src="https://simpleicons.org/icons/jira.svg"></code>
 </p>
+
+<p>
+  <code><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
+</p>
